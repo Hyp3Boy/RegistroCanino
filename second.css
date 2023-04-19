@@ -1,0 +1,16 @@
+body {
+  background-color: #edf6f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#contenedor {
+  background-color: #ffddd2;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #e29578;
+  padding: 30px;
+  width: 400px;
+}
